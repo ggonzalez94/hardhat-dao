@@ -1,6 +1,6 @@
 // This is going to be the owner of the Box Contract
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.9;
 
 import "@openzeppelin/contracts/governance/TimelockController.sol";
 

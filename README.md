@@ -1,5 +1,5 @@
 # How to DAO
-> This repo es based on [Patrick Collins amazing course](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-17-hardhat-daos) and is all about DAOs.
+> This repo is based on [Patrick Collins amazing course](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-17-hardhat-daos) and is all about DAOs.
 
 ## What does it do?
 > 🤝It allows you to create your own DAO and leverages on chain voting and [OpenZeppelin governance contracts](https://docs.openzeppelin.com/contracts/4.x/governance) to create, deploy and even run a proposal(which would usually be done with [Tally](https://www.withtally.com/) or other frontend for DAOs).
@@ -9,7 +9,7 @@
 
 > Clone the repo  
 ``` bash 
-git clone 
+git clone https://github.com/ggonzalez94/hardhat-dao.git
 ```
 
 > Install packages
@@ -22,7 +22,7 @@ yarn install
 yarn hardhat node
 ```
 
-> Create a proposal to store a new value in the Box contract
+> On a new terminal(don't close the other one - your local node needs to be running) create a proposal to store a new value in the Box contract
 ```bash
 yarn hardhat run scripts/propose.ts --network localhost
 ```
