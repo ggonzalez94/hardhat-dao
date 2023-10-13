@@ -1,4 +1,4 @@
-# How to DAO
+# How to DAO 
 > This repo is based on [Patrick Collins amazing course](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-17-hardhat-daos) and is all about DAOs.
 
 ## What does it do?
