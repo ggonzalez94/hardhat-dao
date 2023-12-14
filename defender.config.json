@@ -4,6 +4,6 @@
         "scan_directories": ["contracts/Box.sol","contracts/standard_governance/GovernorContract.sol"]
       },
       "dependency_checker": {
-        "enabled": false
+        "enabled": true
       }
 }
