@@ -1,7 +1,7 @@
 {
       "contract_inspector": {
         "enabled": true,
-        "scan_directories": ["src/contracts1","src/contracts2"]
+        "scan_directories": ["contracts/Box.sol","contracts/standard_governance/GovernorContract.sol"]
       },
       "dependency_checker": {
         "enabled": false
