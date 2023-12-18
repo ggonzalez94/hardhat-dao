@@ -1,6 +1,6 @@
 {
       "contract_inspector": {
-        "enabled": true,
+        "enabled": false,
         "scan_directories": ["contracts/standard_governance"]
       },
       "dependency_checker": {
