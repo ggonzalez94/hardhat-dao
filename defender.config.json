@@ -5,6 +5,6 @@
         "include_rules": ["alert-uniswap-v2-router-liquidity-considerations","array-length-to-stack", "floating-pragma"]
       },
       "dependency_checker": {
-        "enabled": false
+        "enabled": true
       }
 }
