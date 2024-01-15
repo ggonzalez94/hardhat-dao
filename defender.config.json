@@ -2,7 +2,7 @@
       "contract_inspector": {
         "enabled": true,
         "scan_directories": ["contracts/Box.sol","contracts/standard_governance/GovernorContract.sol"],
-        "include_rules": ["alert-uniswap-v2-router-liquidity-considerations","array-length-to-stack"]
+        "include_rules": ["unused-arguments"]
       },
       "dependency_checker": {
         "enabled": false
