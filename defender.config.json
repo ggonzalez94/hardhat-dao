@@ -1,9 +1,9 @@
 {
-      "x": {
-        "x": true,
-        "x": ['src/contracts1','src/contracts2'],
-      },
-      "x": {
-        "enabled": true,
-      }
+  "x": {
+    "x": true,
+    "x": ["contracts/MyTokenUpgradeable.sol"]
+  },
+  "x": {
+    "x": true
+  }
 }
