@@ -1,9 +1,12 @@
 {
-  "x": {
-    "x": true,
-    "x": ["contracts/MyTokenUpgradeable.sol"]
-  },
-  "x": {
-    "x": true
-  }
+    "contract_inspector": {
+        "enabled": true,
+        "scan_directories": [
+            "contracts/Box.sol",
+            "contracts/standard_governance/GovernorContract.sol"
+        ]
+    },
+    "dependency_checker": {
+        "enabled": false
+    }
 }
