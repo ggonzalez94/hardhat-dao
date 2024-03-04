@@ -7,6 +7,6 @@
       ]
   },
   "dependency_checker": {
-      "enabled": false
+      "enabled": true
   }
 }
